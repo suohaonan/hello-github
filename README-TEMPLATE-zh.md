@@ -1,8 +1,7 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
+[![GitHub Release][GitHub-Release-shield]][GitHub-Release-url]
+[![Maven Central Repo][Maven-Central-Repo-shield]][Maven-Central-Repo-url]
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![官网][rongcloud-shield]][rongcloud-url]
 
 
@@ -87,7 +86,7 @@ To get a local copy up and running follow these simple steps.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **非常感谢您的贡献**.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -129,16 +128,10 @@ Contributions are what make the open source community such an amazing place to l
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[rongcloud-shield]: https://www.rongcloud.cn/
+
+[GitHub-Release-shield]:https://img.shields.io/badge/Release-1.0.0-blue
+[GitHub-Release-url]:https://github.com/rongcloud/rongcloud-react-native-imlib/releases
+[Maven-Central-Repo-shield]:https://img.shields.io/badge/Maven-1.0.0-blue
+[Maven-Central-Repo-url]:http://maven.rongcloud.cn/repository/maven-releases/
+[rongcloud-shield]: https://img.shields.io/badge/-Rongcloud-blue
 [rongcloud-url]: https://www.rongcloud.cn/

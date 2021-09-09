@@ -9,8 +9,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/suohaonan/hello-github">
+    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">项目名称</h3>
@@ -21,7 +21,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues">报告BUG</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
@@ -119,9 +119,11 @@ Contributions are what make the open source community such an amazing place to l
 <!-- 已知用户 -->
 ## 已知用户
 
-* []()
-* []()
-* []()
+<table>
+<tr>
+<td><img src="https://github.com/suohaonan/hello-github/images/logo-wall.png" alt="合作伙伴"></td>
+</tr>
+<tr>
 
 
 

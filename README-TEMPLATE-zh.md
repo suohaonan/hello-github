@@ -18,12 +18,12 @@
   <p align="center">
     项目介绍
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.rongcloud.cn/v4/?version=5.x"><strong>查看文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">报告BUG</a>
+    <a href="https://github.com/suohaonan/hello-github/issues">报告BUG</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/suohaonan/hello-github/issues">功能请求</a>
   </p>
 </p>
 
@@ -54,9 +54,9 @@
 
 <!-- 文档指南 -->
 ## 文档指南
-[使用指南](https://www.apolloconfig.com/#/zh/usage/apollo-user-guide)
-[接口文档](https://www.apolloconfig.com/#/zh/usage/apollo-user-guide)
-[功能清单](https://www.apolloconfig.com/#/zh/usage/apollo-user-guide)
+[使用指南]\
+[接口文档]\
+[功能清单]
 
 <!-- 版本说明 -->
 ## 版本说明
@@ -67,7 +67,7 @@
 <!-- 用法 -->
 ## 用法
 
-To get a local copy up and running follow these simple steps.
+
 
 ### 集成方式
 
@@ -86,13 +86,13 @@ To get a local copy up and running follow these simple steps.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **非常感谢您的贡献**.
+ **非常感谢您的贡献**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Fork 这个仓库
+2. 创建您的本地分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交您的修改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到您的远程分支 (`git push origin feature/AmazingFeature`)
+5. 发起 Pull Request
 
 
 <!-- FAQ -->
@@ -107,12 +107,12 @@ Contributions are what make the open source community such an amazing place to l
 <!-- 联系我们 -->
 ## 联系我们
 
-咨询（工作日：09:30-18:30）：400 - 919 - 9066
-市场合作：010-59856163
-互联网/公有云销售：131 6185 6839
-政企/私有云销售：131 6112 8120
-技术支持邮箱：support@rongcloud.cn
-违法和不良信息举报邮箱：abuse@rongcloud.cn
+咨询（工作日：09:30-18:30）：400 - 919 - 9066\
+市场合作：010-59856163\
+互联网/公有云销售：131 6185 6839\
+政企/私有云销售：131 6112 8120\
+技术支持邮箱：support@rongcloud.cn\
+违法和不良信息举报邮箱：abuse@rongcloud.cn\
 
 
 
@@ -121,7 +121,7 @@ Contributions are what make the open source community such an amazing place to l
 
 <table>
 <tr>
-<td><img src="https://github.com/suohaonan/hello-github/images/logo-wall.png" alt="合作伙伴"></td>
+<td><img src="images/logo-wall.png" alt="合作伙伴"></td>
 </tr>
 <tr>
 
